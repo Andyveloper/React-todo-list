@@ -3,6 +3,8 @@ import { createRoot } from 'react-dom/client'
 
 import TodoContainer from './assets/components/TodoContainer';
 
+import './assets/scss/main.scss'
+
 const rootElement = document.getElementById('root');
 const root = createRoot(rootElement);
 
