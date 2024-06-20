@@ -23,7 +23,7 @@
 
 👤 **Author1**
 
-- GitHub: [@Zeraltz](https://github.com/Zeraltz)
+- GitHub: [@Andyveloper](https://github.com/Andyveloper)
 - Twitter: [@MauroCantillo\_](https://twitter.com/MauroCantillo_)
 
 ## 🤝 Contributing
