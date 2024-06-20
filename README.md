@@ -8,7 +8,7 @@
 
 ## Clone the Project
 
-- `git clone https://github.com/Zeraltz/React-todo-list.git`
+- `git clone https://github.com/Andyveloper/React-todo-list.git`
 
 ## Built With
 
