@@ -4,7 +4,7 @@
 
 ## Project Website (GitHub Pages)
 
-- https://github.com/Zeraltz/React-todo-list
+- https://github.com/Andyveloper/React-todo-list
 
 ## Clone the Project
 
